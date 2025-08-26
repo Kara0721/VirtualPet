@@ -22,8 +22,8 @@ line(180,90,220,90);
 noStroke();
 fill(255,255,255);
 rotate(PI/8);
-ellipse(190,150,75,200);
+ellipse(190,170,80,220);
 rotate(7.1*PI/4);
-ellipse(200,290,75,200);
+ellipse(200,310,80,220);
 }
 
